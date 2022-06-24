@@ -33,8 +33,7 @@
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=riyanhossain&show_icons=true&locale=en&layout=compact" alt="riyanhossain" />
  </p>
-<p align="left">
+<p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=riyanhossain&show_icons=true&locale=en" alt="riyanhossain" />
-
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=riyanhossain&" alt="riyanhossain" />
 </p>
