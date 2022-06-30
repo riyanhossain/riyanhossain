@@ -38,7 +38,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanhossain&theme=vue-dark&layout=compact" />
  </p>
 <div align="center">
-  <img height="170" width="450"  src="https://github-readme-stats.vercel.app/api?username=riyanhossain&show_icons=true&locale=en&theme=vue-dark&count_private=true&include_all_commits=true" />
+  <img height="170" width="400"  src="https://github-readme-stats.vercel.app/api?username=riyanhossain&show_icons=true&locale=en&theme=vue-dark&count_private=true&include_all_commits=true" />
   
-  <img height="170" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=riyanhossain&theme=vue-dark" alt="riyanhossain" />
+  <img height="170" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=riyanhossain&theme=vue-dark" alt="riyanhossain" />
 </div>
