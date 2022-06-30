@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanhossain&label=Profile%20views&color=0e75b6&style=flat" alt="riyanhossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanhossain" alt="riyanhossain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanhossain&theme=gitdimmed&no-frame=false&&title=Repositories,Commits,Followers,Stars,Issues,PullRequest" alt="riyanhossain" /></a> </p>
 
 - 🔭 I’m currently working on [mehshop-app](https://github.com/riyanhossain/mehshop-app)
 
