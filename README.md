@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanhossain&label=Profile%20views&color=0e75b6&style=flat" alt="riyanhossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanhossain&theme=gitdimmed&no-frame=false&&title=Repositories,Commits,Followers,Stars,Issues,PullRequest" alt="riyanhossain" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=riyanhossain&column=7&theme=gruvbox&no-frame=true"/>
+</a>
 
 - 🔭 I’m currently working on [mehshop-app](https://github.com/riyanhossain/mehshop-app)
 
@@ -30,10 +32,13 @@
 <h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/mehrabriyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehrabriyan" /></a></p><br><br><br>
 
+---
+
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=riyanhossain&show_icons=true&locale=en&layout=compact" alt="riyanhossain" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanhossain&theme=vue-dark&layout=compact" />
  </p>
-<p align="">
-<img  src="https://github-readme-stats.vercel.app/api?username=riyanhossain&show_icons=true&locale=en&theme=vue-dark" alt="riyanhossain" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=riyanhossain&theme=vue-dark" alt="riyanhossain" />
-</p>
+<div align="center">
+  <img height="170"  src="https://github-readme-stats.vercel.app/api?username=riyanhossain&show_icons=true&locale=en&theme=vue-dark&count_private=true&include_all_commits=true" />
+  
+  <img height="170"  src="https://github-readme-streak-stats.herokuapp.com/?user=riyanhossain&theme=vue-dark" alt="riyanhossain" />
+</div>
