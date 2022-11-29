@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://mehrabriyan-portfolio.netlify.app/](https://mehrabriyan-portfolio.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://mehrabriyan-portfolio.netlify.app/](https://mehrabriyan-portfolio.netlify.app/) -->
 
 <!-- - 📫 How to reach me **mehraabriyan@gmail.com** -->
 
