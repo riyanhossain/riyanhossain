@@ -7,9 +7,9 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=riyanhossain&column=7&theme=juicyfresh&no-frame=true"/>
 </a>
 
-- 🔭 I’m currently working on [mehshop-app](https://github.com/riyanhossain/mehshop-app)
+<!-- - 🔭 I’m currently working on [mehshop-app](https://github.com/riyanhossain/mehshop-app) -->
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **TypeScript**
 
 <!-- - 👨‍💻 All of my projects are available at [https://mehrabriyan-portfolio.netlify.app/](https://mehrabriyan-portfolio.netlify.app/) -->
 
